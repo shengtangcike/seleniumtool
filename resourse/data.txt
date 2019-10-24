@@ -1,0 +1,189 @@
+*** Variables ***
+=================================================
+
+=================================================
+${theborrowerphone}    15689611249
+${theborrowername}    赵李钱钱钱
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    632625199811061473
+=================================================
+
+${theborrowerphone}    15692867985
+${theborrowername}    郑钱李郑钱
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    330602197705252560
+=================================================
+${theborrowerphone}    15692870340
+${theborrowername}    赵王吴周钱
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    451425199703171186
+=================================================
+${theborrowerphone}    15692871485
+${theborrowername}    秒钱李王秒
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    211204197408082782
+=================================================
+${theborrowerphone}    15692872629
+${theborrowername}    吴赵看赵钱
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    433101199701012668
+=================================================
+${theborrowerphone}    15692873780
+${theborrowername}    钱秒秒秒王
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    130423198105091722
+=================================================
+${theborrowerphone}    15692874949
+${theborrowername}    郑赵秒孙赵
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    230828197901031037
+=================================================
+${theborrowerphone}    15692881409
+${theborrowername}    是郑我赵吴
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    371329199011171062
+=================================================
+${theborrowerphone}    15692882560
+${theborrowername}    时修间间看
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    511701198311181366
+=================================================
+${theborrowerphone}    15692883713
+${theborrowername}    人看赵看时
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    331003197901202005
+=================================================
+${theborrowerphone}    15692884869
+${theborrowername}    我周行自我
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    371103197011122145
+=================================================
+${theborrowerphone}    15692886018
+${theborrowername}    自郑我是王
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    33082419721122194X
+=================================================
+${theborrowerphone}    15692887176
+${theborrowername}    周间人周生
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    430523198306052232
+=================================================
+${theborrowerphone}    15692888325
+${theborrowername}    看是行孙场
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    450422199004231303
+=================================================
+${theborrowerphone}    15692889485
+${theborrowername}    钱间间修看
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    532624198607022035
+=================================================
+${theborrowerphone}    15692890633
+${theborrowername}    赵我李时钱
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    340828199212041963
+=================================================
+${theborrowerphone}    15692891784
+${theborrowername}    吴场钱是吴
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    421126198809081315
+=================================================
+${theborrowerphone}    15693117909
+${theborrowername}    间场孙赵人
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    532327199511211605
+=================================================
+${theborrowerphone}    15693767156
+${theborrowername}    李孙郑行李
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    33112119790610281X
+=================================================
+${theborrowerphone}    15693768302
+${theborrowername}    行场看李周
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    441223197503292886
+=================================================
+${theborrowerphone}    15693769453
+${theborrowername}    间是孙孙时
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    360723197303132606
+=================================================
+${theborrowerphone}    15693770599
+${theborrowername}    李场王赵自
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    230224198002262372
+=================================================
+${theborrowerphone}    15693771748
+${theborrowername}    修我郑吴周
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    110105198411212577
+=================================================
+${theborrowerphone}    15693772929
+${theborrowername}    看孙我间间
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    350603198108131319
+=================================================
+${theborrowerphone}    15693774111
+${theborrowername}    赵郑时场场
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    620602199601171772
+=================================================
+${theborrowerphone}    15693775259
+${theborrowername}    间行赵看行
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    431027197503042249
+=================================================
+${theborrowerphone}    15693776409
+${theborrowername}    我看生王间
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    130423197309032041
+=================================================
+${theborrowerphone}    15693777573
+${theborrowername}    行场生行人
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    23108119851213209X
+=================================================
+${theborrowerphone}    15693818044
+${theborrowername}    我行时场我
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    210301198906202601
+=================================================
+${theborrowerphone}    15693886590
+${theborrowername}    周秒赵是钱
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    360426198411261445
+=================================================
+${theborrowerphone}    15693887733
+${theborrowername}    看人场人孙
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    445103197501121832
+=================================================
+${theborrowerphone}    15693888874
+${theborrowername}    周时人生生
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    441203199105142149
+=================================================
+
+=================================================
+
+=================================================
+
+
+
+
+
+${theborrowerphone}    15698252706
+${theborrowername}    李孙郑生生
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    53250419890121233X
+=================================================
+${theborrowerphone}    15698292701
+${theborrowername}    郑场钱我是
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    37010219970223290X
+=================================================
+${theborrowerphone}    15713784136
+${theborrowername}    郑周我周修
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    230109199510201328
+=================================================

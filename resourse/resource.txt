@@ -1,0 +1,38 @@
+﻿*** Variables ***
+#访问地址
+${urlpath}    http://192.168.1.77:85
+${urlpath_loan}    http://192.168.1.77:83
+#360极速浏览器的安装路径
+${__browser_url}    D:\Program Files\360Chrome\Chrome\Application\360chrome.exe
+#首次安装360极速浏览器的默认缓存
+${add_argument}    C:\Users\WIN10\AppData\Local\Temp\scoped_dir13744_21778\Default
+
+#散标借款人
+${theborrowerphone}    15713784136
+${theborrowername}    郑周我周修
+${theborrowerphone_pwd}    a1234567
+${theborroweridcard}    230109199510201328
+#散标出借人
+${thelenderphone}    19900000002
+${thelenderphone_pwd}    a1234567
+#垫付机构
+${thepaymentphone}    13400002100
+${thepaymentphone_pwd}    a1234567
+${thepaymentname}    垫付机构二名称不一致
+#${thepaymentname}    仿真垫付账户
+${thepaymentid}    762491
+${thepaymentpassword}    1234qwer
+
+#散标承接人
+${thelrecipientphone}    19900000003
+${thelrecipientphone_pwd}    a1234567
+
+#借款系统
+${loanusername}    admin
+${loanuserpassword}    A123456
+
+#散标正常提前结清流程
+${entry_code}    jj2019102200002
+${bdname}    测试专用191022002
+${zzbidname}    债转19092000002
+
